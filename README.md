@@ -1,8 +1,10 @@
 # Frontend Mentor - FAQ accordion card
 
+### [see it live](https://resonant-heliotrope-2fdaca.netlify.app/)
+
 ![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)
 
-### [see it live](https://resonant-heliotrope-2fdaca.netlify.app/)
+
 
 ## The challenge
 
